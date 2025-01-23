@@ -1,6 +1,6 @@
 import os
 # Bot information
-API_ID = os.getenv('API_ID', "26339634')")
+API_ID = os.getenv('API_ID', "26339634")
 API_HASH = os.getenv('API_HASH', "e0318ca1a4652f9348844203de8f491b")
 BOT_TOKEN = os.getenv('BOT_TOKEN', "7361998653:AAEpt3jH-FpJMJR7ILSeem7mH4SgIr9k8uA")
 
